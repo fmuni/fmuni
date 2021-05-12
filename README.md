@@ -2,7 +2,7 @@
 
 I am a scientist who conducts research on a broad range of topics connected to thermo-fluid mechanics, multi-phase flows, porous media, and similar.
 
-My methodology consists in a combination of theoretical analysis and numerical methods; speaking of which, all my codes are stored in public or private repositories here on GitHub. Other software is available from the organizations I am part of (linked in my profile).
+My methodology consists of a combination of theoretical analysis and numerical methods; speaking of which, all my codes are stored in public or private repositories here on GitHub. Other software is available from the organizations I am part of (linked in my profile).
 
 In some sense, this GitHub page is the safe where I keep my valuables.
 
