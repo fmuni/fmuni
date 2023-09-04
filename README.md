@@ -1,12 +1,6 @@
 ### Welcome to my GitHub page!
 
-I am a scientist who conducts research on a broad range of topics connected to thermo-fluid mechanics, multi-phase flows, porous media, and similar.
-
-My methodology consists of a combination of theoretical analysis and numerical methods; speaking of which, all my codes are stored in public or private repositories here on GitHub. Other software is available from the organizations I am part of (linked in my profile).
-
-In some sense, this GitHub page is the safe where I keep my valuables.
-
-Most of my code is written in C++, often employing the open-source libraries [OpenFOAM](www.openfoam.org) and [foam-extend](https://sourceforge.net/projects/foam-extend/).
+I am a scientist who researches a broad range of topics connected to thermo-fluid mechanics, multi-phase flows, and porous media.
 
 <!--
 ## Some examples
