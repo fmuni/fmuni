@@ -1,6 +1,8 @@
 ### Description
 
-I am a scientist who researches a broad range of topics connected to thermo-fluid mechanics, multi-phase flows, and porous media.
+I am an expert in Computational Fluid Dynamics and C++ programming for scientific computing.
+
+My work consists into modeling complex fluid flows occurring in renewable energy and environmental applications to guide design and investigate innovative solutions.
 
 <!--
 ## Some examples
