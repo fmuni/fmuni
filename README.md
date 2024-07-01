@@ -1,5 +1,3 @@
-### Description
-
 I am an expert in Computational Fluid Dynamics and C++ programming for scientific computing.
 
 My work consists into modeling complex fluid flows occurring in renewable energy and environmental applications to guide design and investigate innovative solutions.
